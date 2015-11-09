@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=hora\ minuto
+comment0.target=ClockDisplay(int,\ int)
+comment0.text=\r\n\ Establecer\ los\ valores\ iniciales\ del\ reloj\ a\ 0.\r\n
+comment1.params=hora\ minuto
+comment1.target=void\ setTime(int,\ int)
+comment1.text=\r\n\ Metodo\ para\ editar\ la\ hora.\r\n
+comment2.params=
+comment2.target=void\ timeTick()
+comment2.text=\r\n\ Adelantar\ un\ minuto.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTime()
+comment3.text=\r\n\ Dar\ la\ hora\r\n
+numComments=4
